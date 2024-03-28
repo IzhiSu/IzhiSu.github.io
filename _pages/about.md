@@ -24,7 +24,7 @@ I am an undergraduate majoring in Software Engineering at Guangzhou University n
 
 # 🔥 News
 <div style='display: none'>  2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</div>
-- 2024.02*: &nbsp; Our two papers have been submitted to AI conference and are currently under review.
+- 2024.02*: &nbsp; Our two papers have been submitted to the AI conference and are currently under review.\
 - 2023.08*: &nbsp;🎉🎉 Our inaugural paper has been published after a year-long endeavor.
 
 # 📝 Publications 
