@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Izhi Su"
-description              : "Present is Null"
+# description              : "Present is Null"
 repository               : "IzhiSu/IzhiSu.github.io"
 google_scholar_stats_use_cdn : true
 
