@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-(Self introduce)
+In pursuit of excellence in Artificial Intelligence, I am driven by a passion for innovation and a relentless curiosity to explore the frontiers of technology. With a solid foundation in computer science and a track record of research projects in machine learning and data analysis, I am eager to contribute to cutting-edge research in AI. I am committed to pushing boundaries, solving complex problems, and shaping the future of AI through rigorous academic inquiry and collaborative exploration.
 
-My research interest includes computer vision and meta-learning. I have published 3 papers at international AI conferences and journals.
+I am an undergraduate majoring in Software Engineering at Guangzhou University now. My research interest includes computer vision and meta-learning. I am now working on 3D reconstruction, incremental learning and few-shot learning research. If you are seeking any form of academic cooperation, please feel free to email me at yuanzhisu@e.gzhu.edu.cn.
 
 
 # 🔥 News
