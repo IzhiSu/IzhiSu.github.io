@@ -50,7 +50,7 @@ I am an undergraduate majoring in Software Engineering at Guangzhou University n
 # 📖 Educations
 - *2021.09 - 2025.06*, Undergraduate, Software Engineering, Guangzhou University, Guangzhou  
 
-<dic style='display: none'># 💬 Invited Talks </div>
-
 # 💻 Internships
 - *2022.09 - 2024.03*, Deep Vision Lab, Guanghzou.
+
+<dic style='display: none'># 💬 Invited Talks </div>
