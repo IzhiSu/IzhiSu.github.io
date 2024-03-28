@@ -48,7 +48,7 @@ My research interest includes computer vision and meta-learning. I have publishe
 - *2023.09* Guangzhou University Paper Publication Award   
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Software Engineering, Guangzhou University, Guangzhou  
+- *2021.09 - 2025.06*, Undergraduate, Software Engineering, Guangzhou University, Guangzhou  
 
 # 💬 Invited Talks
 
