@@ -42,10 +42,6 @@ I am an undergraduate majoring in Software Engineering at Guangzhou University n
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 - [PPE: Point position embedding for single object tracking in point clouds], Yuanzhi Su, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, Electronics Letters 2023
 
