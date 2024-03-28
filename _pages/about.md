@@ -33,7 +33,7 @@ I am an undergraduate majoring in Software Engineering at Guangzhou University n
 <div class='paper-box-image'>
 <div>
 <div class="badge">CVPR 2016</div>
-<img src='images/500x300.png' alt="sym" width="100%">
+<img src='images/R.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
