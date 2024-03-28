@@ -44,8 +44,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Guangzhou University Scholarship 
+- *2023.09* Guangzhou University Paper Publication Award   
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Software Engineering, Guangzhou University, Guangzhou  
