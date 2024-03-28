@@ -23,8 +23,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-%- *2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style='display: none'> 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+</div>
 
 # 📝 Publications 
 
@@ -40,7 +42,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-%- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, %C, **CVPR 2020**
+<div style='display: none'>  
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,7 +54,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09 - 2025.06*, Software Engineering, Guangzhou University, Guangzhou  
 
 # 💬 Invited Talks
-%- *2021.09 - 2025.06*, Software Engineering, Guangzhou University, Guangzhou  
 
 # 💻 Internships
 - *2022.09 - 2024.03*, Deep Vision Lab, Guanghzou.
