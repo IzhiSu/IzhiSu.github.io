@@ -41,8 +41,8 @@ I am an undergraduate majoring in Software Engineering at Guangzhou University n
 - [PPE: Point position embedding for single object tracking in point clouds], Yuanzhi Su, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, Electronics Letters 2023
 
 # 🎖 Honors and Awards
-- *2023.10* Guangzhou University Scholarship 
-- *2023.09* Guangzhou University Paper Publication Award   
+- *2023 Guangzhou University Scholarship 
+- *2023 Guangzhou University Paper Publication Award   
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Undergraduate, Software Engineering, Guangzhou University, Guangzhou  
