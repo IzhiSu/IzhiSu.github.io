@@ -42,6 +42,7 @@ I am an undergraduate majoring in Software Engineering at Guangzhou University n
 <div style='display: none'>  
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 </div>
+- [PPE: Point position embedding for single object tracking in point clouds], Yuanzhi Su, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, Electronics Letters 2023
 
 # 🎖 Honors and Awards
 - *2023.10* Guangzhou University Scholarship 
