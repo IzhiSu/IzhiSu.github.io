@@ -23,7 +23,10 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 
 
 # 🔥 News
-<div style='display: none'>  2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</div>
+<div style='display: none'>  2024.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  2024.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+  2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</div>
+  
 - 2024.10*: &nbsp; Our one paper have been accepted by the International Conference of the Architectural Science Association.
 - 2024.02*: &nbsp; Our two papers have been submitted to the AI conferences and are currently under review.
 - 2023.08*: &nbsp;🎉🎉 Our inaugural paper has been published after a year-long endeavor.
