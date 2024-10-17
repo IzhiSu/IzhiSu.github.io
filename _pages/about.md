@@ -31,14 +31,8 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 
 # 📝 Publications 
 
-<div class='paper-box'>
 <div class='paper-box-image', style="text-align: center;">
-<div>
 <img src='images/R.png' alt="sym" width="100%">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-</div>
 </div>
 
 - [_Electronics Letters 2023_] PPE: Point position embedding for single object tracking in point clouds; ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, 
