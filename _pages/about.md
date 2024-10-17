@@ -32,7 +32,7 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'>
+<div class='paper-box-image', style="text-align: center;">
 <div>
 <img src='images/R.png' alt="sym" width="100%">
 </div>
