@@ -19,11 +19,12 @@ redirect_from:
 
 In pursuit of excellence in Artificial Intelligence, I am driven by a passion for innovation and a relentless curiosity to explore the frontiers of technology. With a solid foundation in computer science and a track record of research projects in machine learning and data analysis, I am eager to contribute to cutting-edge research in AI. I am committed to pushing boundaries, solving complex problems, and shaping the future of AI through rigorous academic inquiry and collaborative exploration.
 
-I am an undergraduate majoring in Software Engineering at Guangzhou University now. My research interest includes computer vision and meta-learning. I am now working on 3D reconstruction, continous learning and few-shot learning research. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href='yuanzhisu@e.gzhu.edu.cn'>yuanzhisu@e.gzhu.edu.cn</a>.
+I am now an undergraduate majoring in software engineering at Guangzhou University. My research interest includes computer vision and meta-learning. I am now working on 3D reconstruction, continous learning, and few-shot learning research. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href='yuanzhisu@e.gzhu.edu.cn'>yuanzhisu@e.gzhu.edu.cn</a>.
 
 
 # 🔥 News
 <div style='display: none'>  2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</div>
+- 2024.10*: &nbsp; Our one paper have been accepted by the International Conference of the Architectural Science Association.
 - 2024.02*: &nbsp; Our two papers have been submitted to the AI conferences and are currently under review.
 - 2023.08*: &nbsp;🎉🎉 Our inaugural paper has been published after a year-long endeavor.
 
@@ -44,8 +45,9 @@ I am an undergraduate majoring in Software Engineering at Guangzhou University n
 </div>
 </div>
 
-- [PPE: Point position embedding for single object tracking in point clouds], ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, Electronics Letters 2023
-
+- [PPE: Point position embedding for single object tracking in point clouds], ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, _Electronics Letters 2023_
+- [Multimodal machine learning model for thermal comfort prediction using infrared facial thermal images and tabular data], Haifeng Lan, Cynthia Hou, ***Yuanzhi Su***, _ASA2024_
+  
 # 🎖 Honors and Awards
 - *2023 Guangzhou University Scholarship 
 - *2023 Guangzhou University Paper Publication Award   
