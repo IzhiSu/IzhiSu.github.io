@@ -23,14 +23,9 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 
 
 # 🔥 News
-<div style='display: none'>  2023.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-  2023.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-  2024.08*: &nbsp;<a href="https://arxiv.org/abs/2408.01356">🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</a>
-  2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</a>
-</div>
-  
-- 2024.10*: &nbsp; Our one paper have been accepted by the International Conference of the Architectural Science Association.
-- 2024.08*：&nbsp; One paper has been submitted to the arxiv.
+
+- 2024.10*: &nbsp; Our one paper has been accepted by the International Conference of the Architectural Science Association.
+- 2024.08*：&nbsp; <a href="https://arxiv.org/abs/2408.01356">Our one paper has been submitted to the arxiv.</a>
 - 2024.02*: &nbsp; Our two papers have been submitted to the AI conferences and are currently under review.
 - 2023.08*: &nbsp;🎉🎉 Our inaugural paper has been published after a year-long endeavor.
 
@@ -51,8 +46,8 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 </div>
 </div>
 
-- [PPE: Point position embedding for single object tracking in point clouds], ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, _Electronics Letters 2023_
-- [Multimodal machine learning model for thermal comfort prediction using infrared facial thermal images and tabular data], Haifeng Lan, Cynthia Hou, ***Yuanzhi Su***, _ASA2024_
+- [_Electronics Letters 2023_] PPE: Point position embedding for single object tracking in point clouds; ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, 
+- [_ASA2024_] Multimodal machine learning model for thermal comfort prediction using infrared facial thermal images and tabular data; Haifeng Lan, Cynthia Hou, ***Yuanzhi Su***, 
   
 # 🎖 Honors and Awards
 - *2023 Guangzhou University Scholarship 
