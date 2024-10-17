@@ -31,15 +31,15 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 
 # 📝 Publications 
 
-- [_Electronics Letters 2023_] PPE: Point position embedding for single object tracking in point clouds; ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu, 
-- [_ASA2024_] Multimodal machine learning model for thermal comfort prediction using infrared facial thermal images and tabular data; Haifeng Lan, Cynthia Hou, ***Yuanzhi Su***, 
+- [_Electronics Letters 2023_] PPE: Point position embedding for single object tracking in point clouds; ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu
+- [_ASA2024_] Multimodal machine learning model for thermal comfort prediction using infrared facial thermal images and tabular data; Haifeng Lan, Cynthia Hou, ***Yuanzhi Su***
   
 # 🎖 Honors and Awards
-- *2023 Guangzhou University Scholarship 
-- *2023 Guangzhou University Paper Publication Award   
+- Guangzhou University Scholarship 
+- Guangzhou University Paper Publication Award   
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Undergraduate, Software Engineering, Guangzhou University, Guangzhou  
+- *2021.09 - 2025.06 (expected)*, Undergraduate, Software Engineering, Guangzhou University, Guangzhou  
 
 # 💻 Internships
 - *2022.09 - 2024.03*, Research Intern, Deep Vision Lab, Guangzhou.
