@@ -30,7 +30,7 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 - 2023.08*: &nbsp;🎉🎉 Our inaugural paper is published after a year-long endeavor.
 
 # 📝 Publications 
-- [_Expert Systems with Applications 2025_] Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation;<\br>***Yuanzhi***, Siyuan Chen, Yuan-Gen Wang
+- [_Expert Systems with Applications 2025_] Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation;<br>***Yuanzhi***, Siyuan Chen, Yuan-Gen Wang
 - [_ASA2024_] Multimodal machine learning model for thermal comfort prediction using infrared facial thermal images and tabular data; Haifeng Lan, Cynthia Hou, ***Yuanzhi Su***
 - [_Electronics Letters 2023_] PPE: Point position embedding for single object tracking in point clouds; ***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu
   
