@@ -24,7 +24,6 @@ I am currently an undergraduate majoring in software engineering at Guangzhou Un
 
 # 🔥 News
 - 2025.01*: &nbsp; Our one paper is accepted by Expert Systems with Applications.
-- 2024.10*: &nbsp; Our one paper is accepted by the International Conference of the Architectural Science Association.
 - 2024.08*：&nbsp; <a href="https://arxiv.org/abs/2408.01356">Our one paper is submitted to the arxiv.</a>
 - 2024.02*: &nbsp; Our two papers are submitted to the AI conferences and are currently under review.
 - 2023.08*: &nbsp;🎉🎉 Our inaugural paper is published after a year-long endeavor.
