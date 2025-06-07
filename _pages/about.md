@@ -19,7 +19,7 @@ redirect_from:
 
 In pursuit of excellence in Artificial Intelligence, I am driven by a passion for innovation and a relentless curiosity to explore the frontiers of technology. With a solid foundation in computer science and a track record of research projects in machine learning and data analysis, I am eager to contribute to cutting-edge research in AI. I am committed to pushing boundaries, solving complex problems, and shaping the future of AI through rigorous academic inquiry and collaborative exploration.
 
-I am now an undergraduate majoring in software engineering at Guangzhou University. My research interest includes computer vision and meta-learning. I am now working on 3D reconstruction, continous learning, and few-shot learning research. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href='yuanzhisu@e.gzhu.edu.cn'>yuanzhisu@e.gzhu.edu.cn</a>.
+I am currently an undergraduate majoring in software engineering at Guangzhou University. I will pursue my Phd degree at HKPU in the coming September. My research interest includes computer vision and meta-learning. I am currently working on 3D reconstruction, continuous learning, and AI for science. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href='yuanzhisu@e.gzhu.edu.cn'>yuanzhisu@e.gzhu.edu.cn</a>.
 
 
 # 🔥 News
@@ -39,7 +39,8 @@ I am now an undergraduate majoring in software engineering at Guangzhou Universi
 - Guangzhou University Paper Publication Award   
 
 # 📖 Educations
-- *2021.09 - 2025.06 (expected)*, Undergraduate, Software Engineering, Guangzhou University, Guangzhou  
+- *2021.09 - 2025.06 (expected)*, Undergraduate, Guangzhou University, Guangzhou
+- *2025.09, Phd Student, The Hong Kong Polytechnic University, Hong Kong 
 
 # 💻 Internships
 - *2022.09 - 2024.03*, Research Intern, Deep Vision Lab, Guangzhou.
