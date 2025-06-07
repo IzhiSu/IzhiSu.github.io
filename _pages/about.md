@@ -30,7 +30,6 @@ I am currently an undergraduate majoring in software engineering at Guangzhou Un
 
 # 📝 Publications 
 - Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation;<br>***_Expert Systems with Applications 2025_*** <br>***Yuanzhi***, Siyuan Chen, Yuan-Gen Wang<br>
-- Multimodal machine learning model for thermal comfort prediction using infrared facial thermal images and tabular data;<br>***_ASA2024_*** <br> Haifeng Lan, Cynthia Hou, ***Yuanzhi Su***<br>
 - PPE: Point position embedding for single object tracking in point clouds; <br>***_Electronics Letters 2023_***<br>***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu<br>
   
 # 🎖 Honors and Awards
