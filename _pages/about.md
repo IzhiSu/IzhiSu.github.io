@@ -21,10 +21,10 @@ I am currently a PhD Student at the Hong Kong Polytechnic University, and my res
 
 
 # 🔥 News
-- 2025.08*: &nbsp; One paper is accepted by Measurement.
-- 2025.08*: &nbsp; One paper is accepted by Bioengineering.
-- 2025.01*: &nbsp; One paper is accepted by Expert Systems with Applications.
-- 2023.08*: &nbsp;🎉🎉One paper is accepted by Electronics Letters.
+- 2025.08: One paper is accepted by Measurement.
+- 2025.08: One paper is accepted by Bioengineering.
+- 2025.01: One paper is accepted by Expert Systems with Applications.
+- 2023.08: One paper is accepted by Electronics Letters.
 
 # 📝 Publications 
 - PoseGraphNet: Pose prior and graph structure for 3D human pose estimation using mmWave radar;<br>***Measurement 2025*** <br>***Yuanzhi***, Huiying Cynthia Hou, Chun Zhao<br>
