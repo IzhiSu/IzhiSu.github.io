@@ -28,9 +28,9 @@ I am currently a PhD Student at the Hong Kong Polytechnic University, and my res
 
 # 📝 Publications 
 - PoseGraphNet: Pose prior and graph structure for 3D human pose estimation using mmWave radar;<br>***Measurement 2025*** <br> **Yuanzhi Su**, Huiying Cynthia Hou, Chun Zhao<br>
-- A High-Fidelity mmWave Radar Dataset for Privacy-Sensitive Human Pose Estimation;<br>***Bioengineering 2025*** <br>**Yuanzhi Su**, Huiying Cynthia Hou, Haifeng Lan, Christina Zong-Hao Ma<br>
-- Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation;<br>**Expert Systems with Applications 2025** <br> ***Yuanzhi Su***, Siyuan Chen, Yuan-Gen Wang<br>
-- PPE: Point position embedding for single object tracking in point clouds; <br>***Electronics Letters 2023***<br>**Yuanzhi Su**, Yuan-Gen Wang, Weijia Wang, Guopu Zhu<br>
+- A High-Fidelity mmWave Radar Dataset for Privacy-Sensitive Human Pose Estimation;<br>***Bioengineering 2025*** <br> **Yuanzhi Su**, Huiying Cynthia Hou, Haifeng Lan, Christina Zong-Hao Ma<br>
+- Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation;<br>***Expert Systems with Applications 2025*** <br> **Yuanzhi Su**, Siyuan Chen, Yuan-Gen Wang<br>
+- PPE: Point position embedding for single object tracking in point clouds; <br>***Electronics Letters 2023***<br> **Yuanzhi Su**, Yuan-Gen Wang, Weijia Wang, Guopu Zhu<br>
   
 # 🎖 Honors and Awards
 - Outstanding Graduation Thesis of Guangzhou University
