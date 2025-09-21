@@ -17,27 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-In pursuit of excellence in Artificial Intelligence, I am driven by a passion for innovation and a relentless curiosity to explore the frontiers of technology. With a solid foundation in computer science and a track record of research projects in machine learning and data analysis, I am eager to contribute to cutting-edge research in AI. I am committed to pushing boundaries, solving complex problems, and shaping the future of AI through rigorous academic inquiry and collaborative exploration.
-
-I am currently an undergraduate majoring in software engineering at Guangzhou University. I will pursue my Phd degree at HKPU in the coming September. My research interest includes computer vision and meta-learning. I am currently working on 3D reconstruction, continuous learning, and AI for science. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href='yuanzhisu@e.gzhu.edu.cn'>yuanzhisu@e.gzhu.edu.cn</a>.
+I am currently a PhD Student at the Hong Kong Polytechnic University, and my research interests include computer vision and AI applications in science. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href='yuanzhi.su@connect.polyu.hk'>yuanzhi.su@connect.polyu.hk</a>.
 
 
 # 🔥 News
-- 2025.01*: &nbsp; Our one paper is accepted by Expert Systems with Applications.
-- 2024.08*：&nbsp; <a href="https://arxiv.org/abs/2408.01356">Our one paper is submitted to the arxiv.</a>
-- 2024.02*: &nbsp; Our two papers are submitted to the AI conferences and are currently under review.
-- 2023.08*: &nbsp;🎉🎉 Our inaugural paper is published after a year-long endeavor.
+- 2025.08*: &nbsp; One paper is accepted by Measurement.
+- 2025.08*: &nbsp; One paper is accepted by Bioengineering.
+- 2025.01*: &nbsp; One paper is accepted by Expert Systems with Applications.
+- 2023.08*: &nbsp;🎉🎉One paper is accepted by Electronics Letters.
 
 # 📝 Publications 
-- Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation;<br>***_Expert Systems with Applications 2025_*** <br>***Yuanzhi***, Siyuan Chen, Yuan-Gen Wang<br>
-- PPE: Point position embedding for single object tracking in point clouds; <br>***_Electronics Letters 2023_***<br>***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu<br>
+- PoseGraphNet: Pose prior and graph structure for 3D human pose estimation using mmWave radar;<br>***Measurement 2025*** <br>***Yuanzhi***, Huiying Cynthia Hou, Chun Zhao<br>
+- A High-Fidelity mmWave Radar Dataset for Privacy-Sensitive Human Pose Estimation;<br>***Bioengineering 2025*** <br>***Yuanzhi***, Huiying Cynthia Hou, Haifeng Lan, Christina Zong-Hao Ma<br>
+- Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation;<br>***Expert Systems with Applications 2025*** <br>***Yuanzhi***, Siyuan Chen, Yuan-Gen Wang<br>
+- PPE: Point position embedding for single object tracking in point clouds; <br>***Electronics Letters 2023***<br>***Yuanzhi Su***, Yuan-Gen Wang, Weijia Wang, Guopu Zhu<br>
   
 # 🎖 Honors and Awards
-- Guangzhou University Scholarship 2023 & 2024
+- Outstanding Graduation Thesis of Guangzhou University
+- Guangzhou University Scholarship 2023 & 2024 & 2025
 - Guangzhou University Paper Publication Award   
 
 # 📖 Educations
-- *2021.09 - 2025.06 (expected)*, Undergraduate, Guangzhou University, Guangzhou
+- *2021.09 - 2025.07, Undergraduate, Guangzhou University, Guangzhou
 - *2025.09, Phd Student, The Hong Kong Polytechnic University, Hong Kong 
 
 # 💻 Internships
