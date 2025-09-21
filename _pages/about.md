@@ -38,8 +38,8 @@ I am currently a PhD Student at the Hong Kong Polytechnic University, and my res
 - Guangzhou University Paper Publication Award   
 
 # 📖 Educations
+- *2025.09 - present, Phd Student, The Hong Kong Polytechnic University, Hong Kong 
 - *2021.09 - 2025.07, Undergraduate, Guangzhou University, Guangzhou
-- *2025.09, Phd Student, The Hong Kong Polytechnic University, Hong Kong 
 
 # 💻 Internships
 - *2022.09 - 2024.03*, Research Intern, Deep Vision Lab, Guangzhou.
