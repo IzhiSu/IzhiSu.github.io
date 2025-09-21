@@ -21,10 +21,10 @@ I am currently a PhD Student at the Hong Kong Polytechnic University, and my res
 
 
 # 🔥 News
-- 2025.08: One paper is accepted by Measurement.
-- 2025.08: One paper is accepted by Bioengineering.
-- 2025.01: One paper is accepted by Expert Systems with Applications.
-- 2023.08: One paper is accepted by Electronics Letters.
+- 2025.08: One paper is accepted by ***Measurement***.
+- 2025.08: One paper is accepted by ***Bioengineering***.
+- 2025.01: One paper is accepted by ***Expert Systems with Applications***.
+- 2023.08: One paper is accepted by ***Electronics Letters***.
 
 # 📝 Publications 
 - PoseGraphNet: Pose prior and graph structure for 3D human pose estimation using mmWave radar;<br>***Measurement 2025*** <br> **Yuanzhi Su**, Huiying Cynthia Hou, Chun Zhao<br>
@@ -42,6 +42,6 @@ I am currently a PhD Student at the Hong Kong Polytechnic University, and my res
 - 2021.09 - 2025.07, Undergraduate, Guangzhou University, Guangzhou
 
 # 💻 Internships
-- 2022.09 - 2024.03*, Research Intern, Deep Vision Lab, Guangzhou.
+- 2022.09 - 2024.03, Research Intern, Deep Vision Lab, Guangzhou.
 
 <dic style='display: none'># 💬 Invited Talks </div>
