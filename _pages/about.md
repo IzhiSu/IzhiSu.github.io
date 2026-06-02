@@ -33,7 +33,7 @@ I am currently a PhD Student at the Hong Kong Polytechnic University, and my res
 - PPE: Point position embedding for single object tracking in point clouds; <br>***Electronics Letters 2023***<br> **Yuanzhi Su**, Yuan-Gen Wang, Weijia Wang, Guopu Zhu<br>
   
 # 🎖 Honors and Awards
-- Graduation Thesis Innovation Award
+- Graduation Thesis Innovation Award of Guangzhou University
 - Outstanding Graduation Thesis of Guangzhou University
 - Guangzhou University Scholarship 2023 & 2024 & 2025
 - Guangzhou University Paper Publication Award   
