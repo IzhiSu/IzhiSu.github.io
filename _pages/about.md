@@ -35,7 +35,7 @@ I am currently a PhD Student at the Hong Kong Polytechnic University, and my res
 # 🎖 Honors and Awards
 - Graduation Thesis Innovation Award
 - Outstanding Graduation Thesis of Guangzhou University
-- Guangzhou University Scholarship 2023& 2024& 2025
+- Guangzhou University Scholarship 2023 & 2024 & 2025
 - Guangzhou University Paper Publication Award   
 
 # 📖 Educations
