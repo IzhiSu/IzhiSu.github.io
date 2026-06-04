@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD Student at the Hong Kong Polytechnic University, and my research interests include computer vision and AI applications in science. If you are seeking any form of **academic cooperation**, please feel free to email me at <a href='yuanzhi.su@connect.polyu.hk'>yuanzhi.su@connect.polyu.hk</a>.
+I am currently a PhD Student at the Hong Kong Polytechnic University, and my research interests include computer vision and AI applications in science. If you are seeking any form of **cooperation**, please feel free to email me at <a href='yuanzhi.su@connect.polyu.hk'>yuanzhi.su@connect.polyu.hk</a>.
 
 
 # 🔥 News
